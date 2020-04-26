@@ -17,3 +17,5 @@ This Repo contains Python Notebooks to accomplish one of 2 tasks:
 
   1. Data Preprocessing
   2. Classification Neural Network
+
+I do not go into a deep dive of the orginal dataset, but here's a link to another notebook where the author robustly explores the image dataset used here. 
